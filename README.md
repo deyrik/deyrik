@@ -1,4 +1,4 @@
-## Hi 👋, I'm Gabriel de Pádua(antigo titulo) 
+## Hi 👋, I'm Gabriel de Pádua
 
 ### A technology-enthusiastic computer scientist
 
