@@ -1,4 +1,7 @@
-## Hi 👋, I'm Gabriel de Pádua 
+<!-- ## Hi 👋, I'm Gabriel de Pádua(antigo titulo) -->
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm Gabriel de Pádua;" />
+</h1>
 
 ### A technology-enthusiastic computer scientist
 
@@ -41,11 +44,23 @@
 <br/>
 </div>
 
-##
+## 
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=deyrik&show_icons=true&theme=dracula)
 
+
+<!--
+
+cobrinha- nao esta funcionando 
+
 ![snake gif](https://github.com/deyrik/deyrik/blob/output/github-contribution-grid-snake.svg)
+
+
+## servem para criar uma linha que separa 
+
+
+ -->
+
 
 
 
@@ -53,3 +68,4 @@
 
 
  
+
