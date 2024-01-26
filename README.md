@@ -45,6 +45,7 @@
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=deyrik&show_icons=true&theme=dracula)
 
+![snake gif](https://github.com/deyrik/deyrik/blob/output/github-contribution-grid-snake.svg)
 
 
 
