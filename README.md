@@ -48,7 +48,7 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deyrik&layout=compact&langs_count=8&theme=dracula)
 
 
-
+![snake gif](https://github.com/deyrik/deyrik/blob/output/github-contribution-grid-snake.svg)
 <!--
 
 cobrinha- nao esta funcionando 
