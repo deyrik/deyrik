@@ -43,9 +43,6 @@
 
 ## 
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=deyrik&show_icons=true&theme=dracula)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deyrik&layout=compact&langs_count=8&theme=dracula)
 
 
 <!--
