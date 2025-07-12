@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: gabriel_ferreira100@hotmail.com
 
-- 🤖 Is not this was not done with AI (hahaha)
+- 🤖 this was not done with AI (hahaha)
 
 
 ##
