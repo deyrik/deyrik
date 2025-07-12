@@ -10,7 +10,10 @@
 
 - ⚡ Fun fact: I love games
 
-- 📫 How to reach me: gabriel_ferreira100@hotmail.com  
+- 📫 How to reach me: gabriel_ferreira100@hotmail.com
+
+- 🤖 Is not this was not done with AI (hahaha)
+
 
 ##
 #### 🔗 Conect with me:  
