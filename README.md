@@ -2,8 +2,6 @@
 
 ### A computer scientist
 
-- 💻 Computer scientist
-
 - 🧑🏾‍💻 Always programming on personal projects
 
 - 💬 Let's talk to solve your problems
