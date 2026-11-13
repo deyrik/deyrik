@@ -45,10 +45,16 @@
 ## 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=deyrik&theme=dracula&hide_border=true)
-![Top Linguagens](https://metrics.lecoq.io/deyrik?config.timezone=America%2FSao_Paulo&theme=dracula&base.header=0&base.activity=0&base.community=0&base.repositories=0&plugin.languages=1&plugin.languages.layout=compact)
+
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deyrik&theme=dracula)
 
+![Most Used Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deyrik&layout=compact&langs_count=8&theme=dracula)
 
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deyrik&theme=dracula)
+
+
+
+<!--
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=deyrik&show_icons=true&theme=dracula)
 
@@ -58,7 +64,9 @@
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-<!--
+
+![Top Linguagens](https://metrics.lecoq.io/deyrik?config.timezone=America%2FSao_Paulo&theme=dracula&base.header=0&base.activity=0&base.community=0&base.repositories=0&plugin.languages=1&plugin.languages.layout=compact)
+
 
 cobrinha- nao esta funcionando 
 
