@@ -6,6 +6,7 @@
 📍 Brazil
 
 ## About Me:
+I am a software engineer and researcher. I have a keen interest in philosophy and physics, and I also dabble in hardware.
 
 ## Technologies:
 
