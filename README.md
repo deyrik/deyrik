@@ -8,6 +8,14 @@
 ## About Me:
 I am a software engineer and researcher. I have a keen interest in philosophy and physics, and I also dabble in hardware.
 
+## Research:
+- **Software Engineer & Scientific Researcher — UFV (ETHOS / NuPESSC)** *(Apr 2023 – Jul 2026)*
+  Web scraping, large-scale data mining, and neural network analysis to investigate ethical issues in gaming contexts.
+- **Software/Hardware Engineer & Researcher — UFV (LESC)** *(1 year)*
+  IoT hardware/software engineering and computer vision models for real-time plant monitoring and analysis.
+- **Software Engineer & Physics Researcher — UFV (Computational Astrophysics)** *(1 year)*
+  Collection, processing, and enrichment of astronomical datasets from official observatories and satellites (NASA, LSST, LIneA).
+
 ## Technologies:
 
 ### Backend:
