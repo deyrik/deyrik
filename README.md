@@ -50,7 +50,6 @@
 
 ![Most Used Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deyrik&layout=compact&langs_count=8&theme=dracula)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deyrik&theme=dracula)
 
 
 
