@@ -66,7 +66,6 @@ I am a software engineer and researcher. I have a keen interest in philosophy an
 ## Conect with me:  
 
 [![likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-de-pádua-cdc) 
-[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/553198599682)
 
 
 ## 
